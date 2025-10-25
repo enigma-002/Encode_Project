@@ -8,11 +8,6 @@ yarn-*.log*
 
 # Python
 __pycache__/
-*.pyc
-.venv/
-venv/
-.env
-.env.*
 .uv/
 .pytest_cache/
 
