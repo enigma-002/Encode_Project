@@ -1,0 +1,21 @@
+﻿# Node
+node_modules/
+dist/
+.vite/
+.next/
+npm-debug.log*
+yarn-*.log*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+.uv/
+.pytest_cache/
+
+# OS / misc
+.DS_Store
+*.swp
